@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyAppEscuelaIT</string>
     <string name="Hola">Hola mundo de github!!</string>
-    <string name="Texto">En Resource se escribe el texto que vamos a mostrar en el textView</string>
+    <string name="Texto">En Resource se escribe el texto que mostramos en el textView</string>
 </resources>
